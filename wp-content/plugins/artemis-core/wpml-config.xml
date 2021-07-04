@@ -1,0 +1,26 @@
+<wpml-config>
+    <shortcodes>
+        <shortcode>
+            <tag>at_swp_artemis_collection_promo</tag>
+            <attributes>
+                <attribute encoding="base64">bold_text</attribute>
+                <attribute>additional_text</attribute>
+                <attribute>small_heading</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>at_swp_icon_box</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lc_mailchimp_subscribe</tag>
+            <attributes>
+                <attribute>content</attribute>
+                <attribute>review_content</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>        
+</wpml-config>
